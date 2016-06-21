@@ -1,0 +1,6 @@
+C:\Users\student\Documents\GitHub\C#\Day2\Methods\Methods\bin\Debug\Methods.exe.config
+C:\Users\student\Documents\GitHub\C#\Day2\Methods\Methods\bin\Debug\Methods.exe
+C:\Users\student\Documents\GitHub\C#\Day2\Methods\Methods\bin\Debug\Methods.pdb
+C:\Users\student\Documents\GitHub\C#\Day2\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\C#\Day2\Methods\Methods\obj\Debug\Methods.exe
+C:\Users\student\Documents\GitHub\C#\Day2\Methods\Methods\obj\Debug\Methods.pdb
